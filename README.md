@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" width="250" alt="Coding Wizard GIF" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Typing GIF" />
 </p>
 
 <h1 align="center">Hey, I’m Raviraj 👋 | Vortex of Code</h1>
