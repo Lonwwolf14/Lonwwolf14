@@ -8,7 +8,6 @@
 <p align="center">
   <em>Currently orchestrating chaos with Kubernetes, deploying dreams with Docker, and coding in Go at #localhost.</em>
   <br>
-  <img src="https://img.shields.io/badge/-Building%20Epic%20Stuff-00C4B4?style=for-the-badge&labelColor=000000&logo=rocket" alt="Building Badge" />
 </p>
 
 ---
