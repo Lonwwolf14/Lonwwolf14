@@ -41,10 +41,10 @@
 ### 🌌 Featured Projects
 - **[Full-Stack GCP Deployment]**  
   *Dockerized a full-stack app and shipped it to Google Cloud with CI/CD pipelines. Go backend, React frontend, 100% chaos-free.*  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/Lonwwolf14/your-repo-name)
+  [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/Lonwwolf14/your-gcp-repo)
 
 - **[Go-Powered Tool]**  
-  *Built a [insert cool tool idea, e.g., CLI for system monitoring] in Go—fast, lean, and open-source ready.*  
+  *Built a CLI for system monitoring in Go—fast, lean, and open-source ready.*  
   [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/Lonwwolf14/your-go-tool-repo)
 
 - **[Kubernetes Playground]**  
@@ -59,20 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lonwwolf14&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lonwwolf14&theme=radical&hide_border=true" height="150" alt="streak graph" />
 </p>
-
----
-
-### 🏆 Trophies & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lonwwolf14&theme=onedark&no-frame=true&margin-w=15" alt="trophies" />
-</p>
-
----
-
-### 🌿 Open Source Vibes
-- **Dream Contribution**: Adding a feature to Kubernetes or the Linux kernel.
-- **Current Streak**: Hacking on personal projects—open to collabs!  
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/Lonwwolf14)
 
 ---
 
