@@ -41,11 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" title="VSCode" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="40" alt="Rust" title="Rust" />
-  <img src="https://img.shields.io/badge/-Powered%20by%20Coffee-FF6F61?style=flat-square&logo=coffee" alt="Coffee Badge" />
-</p>
-
 ---
 
 ### 📊 GitHub Stats
@@ -58,9 +53,8 @@
 ---
 
 ### 🎉 Fun Corner
-- **Current Jam**: [Insert favorite song or band]  
-- **Gaming Flex**: [Insert game, e.g., "Valorant headshot machine"]  
-- **Trekking Goal**: Conquer [insert trek, e.g., "Himalayas next summer"]  
+- **Current Jam**: 1D 
+- **Gaming Flex**: Valorant 
 - **Vim Status**: Still typing `:q!` in panic—progress pending.  
 
 <p align="center">
