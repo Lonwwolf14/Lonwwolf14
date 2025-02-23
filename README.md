@@ -38,21 +38,6 @@
 
 ---
 
-### 🌌 Featured Projects
-- **[Full-Stack GCP Deployment]**  
-  *Dockerized a full-stack app and shipped it to Google Cloud with CI/CD pipelines. Go backend, React frontend, 100% chaos-free.*  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/Lonwwolf14/your-gcp-repo)
-
-- **[Go-Powered Tool]**  
-  *Built a CLI for system monitoring in Go—fast, lean, and open-source ready.*  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/Lonwwolf14/your-go-tool-repo)
-
-- **[Kubernetes Playground]**  
-  *Experimenting with pods, clusters, and chaos engineering—because who doesn’t love a good crash?*  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/Lonwwolf14/k8s-playground)
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lonwwolf14&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
@@ -69,13 +54,6 @@
 - **Vim Status**: Still typing `:q!` in panic—progress pending.
 
 ---
-
-### 📬 Let’s Connect!
-<p align="center">
-  <a href="https://linkedin.com/in/ravirajparab"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="email" /></a>
-</p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Lonwwolf14/count.svg" alt="visitor counter" />
